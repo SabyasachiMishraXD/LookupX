@@ -142,11 +142,7 @@ All names are stored in lowercase to enable case-insensitive search.
 
 ## 👤 Author
 
-**Bhabesh Nayak**  
-*Backend Developer – Node.js, Prisma, MySQL*
+**Sabyasachi Mishra**  
 
 ---
 
-## 📝 License
-
-This project is licensed for evaluation and technical interviews only.
